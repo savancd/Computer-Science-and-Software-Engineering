@@ -6,4 +6,5 @@ This is self paced learning curve.
 
 
 7.4.2023 - 16:11h
+
 Finished reading first 5 chapters of pytontolearn.pdf. And wrote my first line of Pyton code (Hello World).
