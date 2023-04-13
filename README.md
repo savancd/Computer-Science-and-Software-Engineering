@@ -21,8 +21,12 @@ This is self paced learning curve.
 
 ---
 
-   **7.4.2023 - 16:11h**
-    Finished reading first 5 chapters of pytontolearn.pdf. And wrote my first line of Pyton code (Hello World).
+  **12.4.2023 - 05:32h**
+Writing two functions for weekly assignments, one more function is left for weekly assignment.
+Reading chapter "1.5 Conversing with Python and 1.6 Terminology: Interpreter and compiler" in the book "Python for Everybody"
+
+> **Note**
+> I spent one and half an hour on this assignments after working on other projects during the night
 
 ---
 
@@ -38,11 +42,7 @@ This is self paced learning curve.
 
 ---
 
-  **12.4.2023 - 05:32h**
-Writing two functions for weekly assignments, one more function is left for weekly assignment.
-Reading chapter "1.5 Conversing with Python and 1.6 Terminology: Interpreter and compiler" in the book "Python for Everybody"
-
-> **Note**
-> I spent one and half an hour on this assignments after working on other projects during the night
+   **7.4.2023 - 16:11h**
+    Finished reading first 5 chapters of pytontolearn.pdf. And wrote my first line of Pyton code (Hello World).
 
 ---
