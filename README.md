@@ -17,7 +17,13 @@ This is self paced learning curve.
     https://www.youtube.com/watch?v=9Os0o3wzS_I
 
 
+---
 
+  **13.4.2023 - 18:57h**
+Writing Function 'sort.py' - still not finished(needs a lot of adjustment to be reversed list) 
+
+> **Note**
+> I need more to read about those functions to be able to understand them more
 
 ---
 
@@ -30,15 +36,11 @@ Reading chapter "1.5 Conversing with Python and 1.6 Terminology: Interpreter and
 
 ---
 
----
-
  **8.4.2023 - 18:33h**
    Started reading  **4.7. Defining Functions**  up to **4.8. More on Defining Functions** 
 
 > **Note**
 >  Must read more about functions.
-
----
 
 ---
 
