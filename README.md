@@ -2,7 +2,7 @@
 
 This is self paced learning curve.
 
->   My motivation for this project is to learn and to save alll my procees in learning and progress
+>   My motivation for this project is to learn and to save all my procees in learning and progress
 
 >   Online resources:
  
@@ -16,6 +16,14 @@ This is self paced learning curve.
     https://docs.python.org/3/tutorial/controlflow.html#defining-functions
     https://www.youtube.com/watch?v=9Os0o3wzS_I
 
+
+---
+
+  **14.4.2023 - 19:59h**
+Finishing Function 'sort.py' 
+
+> **Note**
+> I need more to read about those functions to be able to understand them more
 
 ---
 

@@ -9,10 +9,12 @@ movies = [
 	(2008, 'The Dark Knight', 9.0)
 ]
 
-movies = sorted(movies, key=lambda movie: -movie[2])
+movies = sorted(movies, key=lambda movie: movie[0])
 
 for movie in movies:
-    print(movie)
+     print(movie)
 
-# Resource for making this function was: https://blogboard.io/blog/knowledge/python-sorted-lambda/
+# 	Resources for making this function was: 
+# 	https://blogboard.io/blog/knowledge/python-sorted-lambda/
+#	https://docs.python.org/3/howto/sorting.html
 
