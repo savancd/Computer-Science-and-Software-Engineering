@@ -16,6 +16,14 @@ This is self paced learning curve.
     https://docs.python.org/3/tutorial/controlflow.html#defining-functions
     https://www.youtube.com/watch?v=9Os0o3wzS_I
 
+---
+
+  **16.4.2023 - 19:52h**
+Continued with Introduction to Python making new files and lists.
+Stoped at 'Tuples' for the basic introduction. 
+
+> **Note**
+> Learning file is in the <Computer-Science-and-Software-Engineering/Docs/
 
 ---
 
