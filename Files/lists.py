@@ -10,3 +10,15 @@ fruits = ["Apple", "Banana", "Orange", "Kivi", "Grape"]
 #   in square brackets after the list name. 
 
 print(fruits[3])
+
+#   Slicing a List You can also extract a subset of elements from a list
+#   using slicing. Slicing allows you to specify a range of indices to 
+#   extract from the list. 
+# 
+#   To slice a list, use the following syntax: 
+#   list_name[start_index:end_index]. 
+#   
+#   Note that the start_index is inclusive and the end_index is exclusive.
+# 
+#   For example, to slice our fruits list to extract the first three elements:
+#   print(fruits[0:3])
