@@ -1,4 +1,3 @@
-date = input("Enter your date of Birth:")
+name = input("Hello, anong pangalan mo?")
 
-print("date")
-
+print("Hello" ", " + name+ ". " "Ikinagagalak kitang makilala!")
