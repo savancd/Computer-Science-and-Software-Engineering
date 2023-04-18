@@ -11,6 +11,7 @@ This is self paced learning curve.
 
     **Practice Resources**
     https://www.practicepython.org/exercises/
+    www.sololearn.com
 
 
     **Functions and Modules**
