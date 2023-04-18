@@ -1,4 +1,5 @@
 # Computer-Science-and-Software-Engineering
+## This projects started on ->> 7.4.2023 
 
 This is self paced learning curve.
 
@@ -15,6 +16,12 @@ This is self paced learning curve.
     **Functions and Modules**
     https://docs.python.org/3/tutorial/controlflow.html#defining-functions
     https://www.youtube.com/watch?v=9Os0o3wzS_I
+
+
+---
+
+  **18.4.2023 - 04:26h**
+Finished first few classes on SoloLearn for the Introduction to Python
 
 ---
 
