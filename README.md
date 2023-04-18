@@ -22,9 +22,9 @@ This is self paced learning curve.
 
 ---
 
-  **19.4.2023 - 06:35h**      
-Doing assignments and following tutorials on SoloLearn.        
-
+  **19.4.2023 - 01:58h**      
+Doing assignments and following tutorials on SoloLearn.                        
+Day 2 of daily challenge
 
 ---
 
