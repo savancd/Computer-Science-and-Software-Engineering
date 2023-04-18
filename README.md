@@ -8,6 +8,7 @@ This is self paced learning curve.
 >   Online resources:
  
     https://www.py4e.com/
+    https://docs.python.org/3/tutorial/
 
     **Practice Resources**
     https://www.practicepython.org/exercises/
@@ -21,16 +22,22 @@ This is self paced learning curve.
 
 ---
 
+  **19.4.2023 - 06:35h**
+Doing assignments and following tutorials on SoloLearn.        
+
+
+---
+
   **18.4.2023 - 06:35h**
-Finished first few classes on SoloLearn for the Introduction to Python.
-As well continue to learn about Tuples.
-Reading few chapters of the book "Python for Everybody" as well readin book from Wikipedia about Central Processing unit.
+Finished first few classes on SoloLearn for the Introduction to Python.         
+As well continue to learn about Tuples.        
+Reading few chapters of the book "Python for Everybody" as well readin book from Wikipedia about Central Processing unit.       
 
 ---
 
   **16.4.2023 - 19:52h**
-Continued with Introduction to Python making new files and lists.
-Stoped at 'Tuples' for the basic introduction. 
+Continued with Introduction to Python making new files and lists.       
+Stoped at 'Tuples' for the basic introduction.       
 
 > **Note**
 > Learning file is in the <Computer-Science-and-Software-Engineering/Docs/
@@ -54,8 +61,8 @@ Writing Function 'sort.py' - still not finished(needs a lot of adjustment to be 
 ---
 
   **12.4.2023 - 05:32h**
-Writing two functions for weekly assignments, one more function is left for weekly assignment.
-Reading chapter "1.5 Conversing with Python and 1.6 Terminology: Interpreter and compiler" in the book "Python for Everybody"
+Writing two functions for weekly assignments, one more function is left for weekly assignment.        
+Reading chapter "1.5 Conversing with Python and 1.6 Terminology: Interpreter and compiler" in the book "Python for Everybody"         
 
 > **Note**
 > I spent one and half an hour on this assignments after working on other projects during the night
