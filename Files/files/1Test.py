@@ -5,11 +5,17 @@
 
 # -----------------------
 
-movie = "Jurassic Park"
-director ="Stiven Spielberg"
+# movie = "Jurassic Park"
+# director ="Stiven Spielberg"
 
-message = movie + ", " + director + "" # To work must be closed with quotation marks
+# message = movie + ", " + director + "" # To work must be closed with quotation marks
 
-print(message)
+# print(message)
+
+# -----------------------
+
+x = 43
+x = x - 1
+print(x)
 
 # -----------------------

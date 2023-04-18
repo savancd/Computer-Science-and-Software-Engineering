@@ -21,9 +21,10 @@ This is self paced learning curve.
 
 ---
 
-  **18.4.2023 - 05:26h**
+  **18.4.2023 - 06:35h**
 Finished first few classes on SoloLearn for the Introduction to Python.
 As well continue to learn about Tuples.
+Reading few chapters of the book "Python for Everybody" as well readin book from Wikipedia about Central Processing unit.
 
 ---
 
