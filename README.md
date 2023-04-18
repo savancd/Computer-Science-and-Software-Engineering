@@ -21,8 +21,9 @@ This is self paced learning curve.
 
 ---
 
-  **18.4.2023 - 04:26h**
-Finished first few classes on SoloLearn for the Introduction to Python
+  **18.4.2023 - 05:26h**
+Finished first few classes on SoloLearn for the Introduction to Python.
+As well continue to learn about Tuples.
 
 ---
 
