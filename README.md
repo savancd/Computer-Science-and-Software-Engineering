@@ -20,6 +20,13 @@ This is self paced learning curve.
     https://www.youtube.com/watch?v=9Os0o3wzS_I
 
 
+
+---
+
+  **19.4.2023 - 19:23h**      
+Learning more about Lists in Python.                        
+SoloLearn following tutorial
+
 ---
 
   **19.4.2023 - 01:58h**      

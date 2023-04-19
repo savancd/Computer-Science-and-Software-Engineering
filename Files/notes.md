@@ -65,7 +65,9 @@ to bottom. The execution of the program will be interrupted at the first error e
 🌟 string is the data type for text      
 🌟 integer and float are data types for numbers.
 ---
-
+🌟 the type() instruction is used to check the data type       
+🌟 the division of two integers always produces a float.
+---
 
 
 
