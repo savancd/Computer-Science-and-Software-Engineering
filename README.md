@@ -23,6 +23,11 @@ This is self paced learning curve.
 
 ---
 
+  **20.4.2023 - 18:17h**      
+Writing a program that calculates the sum of two numbers. 
+
+---
+
   **19.4.2023 - 19:23h**      
 Learning more about Lists in Python.                        
 SoloLearn following tutorial
