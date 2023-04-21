@@ -23,8 +23,14 @@ This is self paced learning curve.
 
 ---
 
+  **21.4.2023 - 21:17h**      
+Day 4 of daily challenge ->> Writing a program program that calculates the area of a rectangle. 
+
+---
+
   **20.4.2023 - 18:17h**      
 Writing a program that calculates the sum of two numbers. 
+Day 3 of daily challenge
 
 ---
 
