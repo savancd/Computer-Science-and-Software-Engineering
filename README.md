@@ -23,6 +23,12 @@ This is self paced learning curve.
 
 ---
 
+  **22.4.2023 - 19:24h**      
+Day 5 of daily challenge ->> Writing a a program that determines if a number is even or odd.  
+SoloLearn learning
+
+---
+
   **21.4.2023 - 21:17h**      
 Day 4 of daily challenge ->> Writing a program program that calculates the area of a rectangle. 
 
