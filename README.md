@@ -19,7 +19,12 @@ This is self paced learning curve.
     https://docs.python.org/3/tutorial/controlflow.html#defining-functions
     https://www.youtube.com/watch?v=9Os0o3wzS_I
 
+---
 
+  **23.4.2023 - 22:02h**      
+Day 6 of daily challenge ->> Writing a a program that determines if a number is positive or negative.  
+SoloLearn learning
+Reading about CPU (Central Processing Unit)
 
 ---
 

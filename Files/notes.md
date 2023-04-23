@@ -68,6 +68,29 @@ to bottom. The execution of the program will be interrupted at the first error e
 🌟 the type() instruction is used to check the data type       
 🌟 the division of two integers always produces a float.
 ---
+You can convert data from one type to another to fix data quality issues.        
+The int() instruction converts any type of value into an integer
+---
+The float() instruction converts values into floats.
+---
+You can convert values into strings with the str() instruction.
+---
+🌟 you can change the data type of a value with int(), float() and str()    
+🌟 there are implicit and explicit data type conversions in Python      
+🌟 str(), int(), float() instructions are explicit conversions.
+---
+Math operations between integers and floats produce a float.              
+---
+🌟 you avoid bugs in your programs with explicit data type conversions           
+🌟 int() ensures that the user input is treated as an integer number             
+🌟 str() can help you concatenate numbers with text.       
+---
+
+
+
+
+
+
 
 
 
