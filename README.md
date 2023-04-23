@@ -23,7 +23,7 @@ This is self paced learning curve.
 
   **23.4.2023 - 22:02h**      
 Day 6 of daily challenge ->> Writing a a program that determines if a number is positive or negative.  
-SoloLearn learning
+SoloLearn learning                 
 Reading about CPU (Central Processing Unit)
 
 ---
