@@ -19,6 +19,13 @@ This is self paced learning curve.
     https://docs.python.org/3/tutorial/controlflow.html#defining-functions
     https://www.youtube.com/watch?v=9Os0o3wzS_I
 
+
+---
+
+  **24.4.2023 - 23:05h**      
+Day 7 of daily challenge ->> Writing a a program that calculates the factorial of a number. 
+
+
 ---
 
   **23.4.2023 - 22:02h**      
