@@ -23,6 +23,11 @@ This is self paced learning curve.
 ---
 
   **24.4.2023 - 23:05h**      
+Day 8 of daily challenge. 
+
+---
+
+  **24.4.2023 - 23:05h**      
 Day 7 of daily challenge ->> Writing a a program that calculates the factorial of a number. 
 
 
