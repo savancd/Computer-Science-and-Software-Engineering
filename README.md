@@ -19,6 +19,12 @@ This is self paced learning curve.
     https://docs.python.org/3/tutorial/controlflow.html#defining-functions
     https://www.youtube.com/watch?v=9Os0o3wzS_I
 
+---
+
+  **19.10.2023 - 04:53h**      
+Continued with the book Python Crash Course 
+
+---
 
 ---
 
