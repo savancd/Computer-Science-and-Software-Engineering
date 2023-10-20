@@ -21,6 +21,14 @@ This is self paced learning curve.
 
 ---
 
+  **20.10.2023 - 04:10h**      
+Using terminal and linux to learn, manage and create all the files, projects.
+Following tutorials on YouTube to understand how to make calculator app.
+
+---
+
+---
+
   **19.10.2023 - 04:53h**      
 Continued with the book Python Crash Course 
 
