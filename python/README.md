@@ -24,11 +24,13 @@ This is self paced learning curve.
 
 ---
 
-  **30.01.2024 - 22:00h - **      
+  **30.01.2024 - 22:00 - 03:39h **      
 Using terminal and linux to learn, manage and create all the files, projects.
 Starting and following 'Step by step guide to becoming a Python developer in 2024'
-- https://cs50.harvard.edu/x/2024/weeks/6/
-- https://python.land/python-tutorial
+- https://cs50.harvard.edu/x/2024/weeks/1/ - continue to learn from this
+
+- Finished for the night at:
+	(Reversing a string - python.land/introduction-to-python/strings)
 
 ---
 
