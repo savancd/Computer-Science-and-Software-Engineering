@@ -38,6 +38,16 @@ based on patterns of characters:
 | [[:digit:]] | Any file not beginning with a numeral |
 | [[:lower:]123] | Any file ending with a lowercase letter or the numerals "1", "2", "3" |
 
+> commands
+* type - indicate how a command name is interpreted
+* which - Display which executable program will be executed
+* help - get help for shell builtins
+* man - display a command's manual page
+* apropos - display a list of appropriate commands
+* info - display a command's info entry
+* whatis - display one-line manual page description
+* alias - create an alias for a command
+
 
 
 
