@@ -19,6 +19,9 @@ This is self paced learning curve.
 
     **Books**
     The Linux Command line
+> **Note**   
+the next book to read should be: https://debian-handbook.info/browse/stable/preface.html
+
 
 
     **Functions and Modules**
