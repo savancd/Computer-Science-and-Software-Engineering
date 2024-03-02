@@ -24,6 +24,14 @@ This is self paced learning curve.
     **Functions and Modules**
     https://docs.python.org/3/tutorial/controlflow.html#defining-functions
     https://www.youtube.com/watch?v=9Os0o3wzS_I
+---
+
+  **03.02.2024 - 14:26h **  
+Daily Python excercise 
+-  Day1:
+Python Tutorial 1: Introduction to Python for Absolute Beginners
+
+---
 
 ---
 
