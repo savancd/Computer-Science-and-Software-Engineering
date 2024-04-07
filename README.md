@@ -32,8 +32,6 @@ This is self paced learning curve.
 
   **03.02.2024 - 14:26h **  
 Daily Python excercise 
--  Day1:
-Python Tutorial 1: Introduction to Python for Absolute Beginners
 
 ---
 
