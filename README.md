@@ -13,26 +13,26 @@ This is self paced learning curve.
     https://wiki.python.org/moin/BeginnersGuide/Programmers
     https://docs.python.org/3/tutorial/index.html
 
-    **Practice Resources**
+** Practice Resources **
+
     https://www.practicepython.org/exercises/
     www.sololearn.com
 
 > **Note**
-	**Books**
-	pythonforeverybody.pdf
-  
+>>  Books:
 
-  	https://debian-handbook.info/browse/stable/preface.html
-  	The Linux Command line
+    pythonforeverybody.pdf
+    https://debian-handbook.info/browse/stable/preface.html
+    The Linux Command line
+
+** Finished reading the book:
+
+    central-processing-unit.pdf
 
 
 
-    **Functions and Modules**
+** Functions and Modules **
+
     https://docs.python.org/3/tutorial/controlflow.html#defining-functions
     https://www.youtube.com/watch?v=9Os0o3wzS_I
----
 
-  **26 Nov 2024 - 15:34h **  
-	starting again with this project after some period of inactivity. 
-
----
