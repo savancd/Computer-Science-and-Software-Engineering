@@ -3,36 +3,38 @@
 
 #### This is self paced learning curve.
 
->   **My motivation for this project is to learn and to save all my procees in learning and progress.**
+> **My motivation for this project is to learn and to save all my procees in learning and progress.**
 
 
 > *Books:*
 
-    pythonforeverybody.pdf
-    [debian-handbook](https://debian-handbook.info/browse/stable/preface.html)
-    The Linux Command line
+  pythonforeverybody.pdf
+  [debian-handbook](https://debian-handbook.info/browse/stable/preface.html)
+
+  The Linux Command line
 
 > *Finished reading the book:*
 
-    central-processing-unit.pdf
+  central-processing-unit.pdf
 
 
 
 > *Functions and Modules*
 
-    [Defining-functions](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)
-    https://www.youtube.com/watch?v=9Os0o3wzS_I
+  [Defining-functions](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)
+
+  https://www.youtube.com/watch?v=9Os0o3wzS_I
 
 
 > *Online resources:*
 
-    [py4e](https://www.py4e.com/)
-    [docs.python.org/3](https://docs.python.org/3/tutorial/)
-    [roadmap.sh/python](https://roadmap.sh/python)
-    [BeginnersGuide/Programmers](https://wiki.python.org/moin/BeginnersGuide/Programmers)
-    [docs.python.org/3/tutorial](https://docs.python.org/3/tutorial/index.html)
+  [py4e](https://www.py4e.com/)
+  [docs.python.org/3](https://docs.python.org/3/tutorial/)
+  [roadmap.sh/python](https://roadmap.sh/python)
+  [BeginnersGuide/Programmers](https://wiki.python.org/moin/BeginnersGuide/Programmers)
+  [docs.python.org/3/tutorial](https://docs.python.org/3/tutorial/index.html)
 
 > *Practice Resources*
 
-    [practicepython.org/exercises](https://www.practicepython.org/exercises/)
-    [sololearn](www.sololearn.com)
+  [practicepython.org/exercises](https://www.practicepython.org/exercises/)
+  [sololearn](www.sololearn.com)
