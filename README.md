@@ -10,6 +10,7 @@ in notes so I can go back and recall how I did something.**
 > *Books:*
 
   linux_CL_5th.pdf
+
   pythonforeverybody.pdf
 
   [debian-handbook](https://debian-handbook.info/browse/stable/preface.html)
@@ -30,12 +31,17 @@ in notes so I can go back and recall how I did something.**
 > *Online resources:*
 
   [py4e](https://www.py4e.com/)
+
   [docs.python.org/3](https://docs.python.org/3/tutorial/)
+
   [roadmap.sh/python](https://roadmap.sh/python)
+
   [BeginnersGuide/Programmers](https://wiki.python.org/moin/BeginnersGuide/Programmers)
+
   [docs.python.org/3/tutorial](https://docs.python.org/3/tutorial/index.html)
 
 > *Practice Resources*
 
   [practicepython.org/exercises](https://www.practicepython.org/exercises/)
+
   [sololearn](www.sololearn.com)
