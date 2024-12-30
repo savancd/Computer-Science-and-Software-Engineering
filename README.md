@@ -3,18 +3,18 @@
 
 #### This is self paced learning curve.
 
-> **My motivation for this project is to learn and to save all my procees in learning and progress.**
+> **My motivation for this project is to learn and to save all my procees in learning and progress,
+in notes so I can go back and recall how I did something.**
 
 
 > *Books:*
 
+  linux_CL_5th.pdf
   pythonforeverybody.pdf
 
   [debian-handbook](https://debian-handbook.info/browse/stable/preface.html)
 
-  The Linux Command line
-
-> *Finished reading the book:*
+> *Finished reading the books:*
 
   central-processing-unit.pdf
 
