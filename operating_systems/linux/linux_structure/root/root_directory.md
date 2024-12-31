@@ -4,6 +4,22 @@
 > Root directory is the starting point in the Linux
 filesystem and it contains all other directories.
 
+* Like Windows, a Unix-like operating system such as Linux organizes its files in what is
+called a **hierarchical directory structure**. This means they are organized in a tree-like pat-
+tern of directories *(sometimes called folders in other systems)*, which may contain files
+and other directories.
+
+* The first directory in the file system is called the root directory. The
+root directory contains files and subdirectories, which contain more files and subdirecto-
+ries and so on.
+
+* Note that unlike Windows, which has a separate file system tree for each storage device,
+Unix-like systems such as Linux always have a single file system tree, regardless of how
+many drives or storage devices are attached to the computer. Storage devices are attached
+(or more correctly, mounted) at various points on the tree according to the whims of the
+***system administrator***, the person (or people) responsible for the maintenance of the sys-
+tem.
+
 
 > This is the ***root*** directory and everything under that is just another directories.
 ```

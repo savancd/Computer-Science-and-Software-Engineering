@@ -1,9 +1,12 @@
-> The five commands are among the most frenquetly used Linux commands.
+> The commands that I use most frenquetly in Linux commands.
 * cp - Copy files and directories
 * mv - Move/rename files and directories
 * mkdir - Create directories
 * rm - Remove files and directories
 * in - Create hard and symbolic links
+* pwd – Print name of current working directory
+* cd – Change directory
+* ls – List directory contents
 
 > Wildcard also called globbing allows us to select filenames
 based on patterns of characters:
@@ -48,6 +51,11 @@ based on patterns of characters:
 * whatis - display one-line manual page description
 * alias - create an alias for a command
 
+> Command *date*, which displays the current time and date.
+>
+```
+date
+```
 
 
 
