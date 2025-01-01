@@ -25,6 +25,9 @@ ls -l
 ```
 ls -a
 ```
+___
+___
+
 > ***d****rwxr-xr-x   3 root root  4096 May 23  2024 home*
 >
 >> First character indicates the type of the file ***d***
@@ -63,6 +66,8 @@ ls -a
 
 > *drwxr-xr-x*   3 root root  4096 May 23  2024 ***home***
 * home is the directory
+___
+___
 
 > *Display one file per line:*
 ```
@@ -73,7 +78,20 @@ ls -1
 ```
 ls -lah
 ```
-*long listing, including hidden files, with human-readable size*
+* long listing, including hidden files, with human-readable size*
+
+
+*  In the following example, specify multiple directories.
+>
+```
+ls ~/IT/books/ /usr
+```
+>> /home/sava/IT/books/:
+gameDev  hardware  linux  python
+
+>> /usr:
+bin  games  include  lib  lib64  libexec  local  sbin  share  src
+
 
 
 > To list all directories without files in it, it's possible to use
@@ -100,7 +118,8 @@ ls -R | grep ":$"
 ./python/files/challenges:
 ./python/files/files:
 
-
+___
+___
 
 > **To get a complete list of commands and help on the command for this or any other shell command**
 >
@@ -108,5 +127,6 @@ ls -R | grep ":$"
 ```
 ls --help
 ```
-
+___
+___
 

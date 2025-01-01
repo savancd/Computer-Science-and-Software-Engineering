@@ -33,6 +33,7 @@ reappears after the prompt.
 member the last 1000 commands by default. Press the ***down-arrow key*** and the previous
 command disappears.
 
+
 >  Trying simple command *date*, which displays the current time and date.
 >
 ```
@@ -40,6 +41,12 @@ root in /root ❯ **date**
 ```
 >> Mon Dec 30 01:29:46 PM CET 2024
 
+
+| Shortcut | Result |
+|:--------:|:------:|
+|    cd    |     Changes working directory to home directory.    |
+|    cd -  |     Changes working directory to previous working directory     |
+|    cd ~user_name   |   Changes working directory to home directory of ***user_name***. For example *cd ~name* will change directory to the home directory of user ***name***.     |
 
 
 
