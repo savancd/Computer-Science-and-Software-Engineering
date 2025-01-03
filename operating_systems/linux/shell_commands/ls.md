@@ -130,3 +130,17 @@ ls --help
 ___
 ___
 
+
+| Option | Result | Description |
+|:------:|:------:|:-----------:|
+|  -a    |   --all    |      List all files even those with names that begin with period, which are normally not listed (hidden)       |
+|  -A    |   --almost-all     | Like a ***-a*** option above except it does not list .(current_directory) ..and (parent_directory) |
+|  -d    |   --directory     | When directory is specified  ***ls*** will list the content of the directory not the directory itself. Use this option in conjuction with the ***-l*** option to see the details about the directory rather then it's contents.  |
+|  -F    |   --classify     |       |
+|        |        |             |
+|        |        |             |
+|        |        |             |
+|        |        |             |
+|        |        |             |
+|        |        |             |
+
