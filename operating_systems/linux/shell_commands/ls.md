@@ -136,11 +136,10 @@ ___
 |  -a    |   --all    |      List all files even those with names that begin with period, which are normally not listed (hidden)       |
 |  -A    |   --almost-all     | Like a ***-a*** option above except it does not list .(current_directory) ..and (parent_directory) |
 |  -d    |   --directory     | When directory is specified  ***ls*** will list the content of the directory not the directory itself. Use this option in conjuction with the ***-l*** option to see the details about the directory rather then it's contents.  |
-|  -F    |   --classify     |       |
-|        |        |             |
-|        |        |             |
-|        |        |             |
-|        |        |             |
-|        |        |             |
-|        |        |             |
+|  -F    |   --classify     |    This format will append an indicator character to the end of each listed name. A (/) forward slash if the name is directory   |
+|  -h    |   --human-readable     |   In long format listings, display file sizes in human readable format rather in bytes.   |
+|  -l    |        |   Display result in long format.    |
+|  -r    |   --reverse     |   Display results in reverse order. Normally, ***ls*** display results in ascending alphabetical order.    |
+|  -S      |        |    Sort results by file size.         |
+|  -t      |        |    Sort by modification time.         |
 
