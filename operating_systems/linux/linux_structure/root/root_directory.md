@@ -1,3 +1,5 @@
+# This is root directory, where evething begins,
+
 ## The Linux filesystem is organized in tree structure with the
 ## main directory *root* at the top of hierarchy.
 

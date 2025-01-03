@@ -1,6 +1,6 @@
 ### ***ls*** Syntax is the **command** in Linux that lists directory content and files,
-### List information about the FILEs (the current directory by default).
-### Sort entries alphabetically if none of -cftuvSUX nor --sort is specified.
+#### List information about the FILEs (the current directory by default).
+#### Sort entries alphabetically if none of -cftuvSUX nor --sort is specified.
 
 
 > *List only the directories:*
@@ -100,23 +100,23 @@ command with additional filtering through ***grep***.
 ls -R | grep ":$"
 ```
 > The output will be:
-.:
-./books:
-./books/gameDev:
-./books/hardware:
-./books/linux:
-./books/python:
-./operating_systems:
-./operating_systems/linux:
-./operating_systems/linux/excercises:
-./operating_systems/linux/playground:
-./operating_systems/linux/shell_commands:
-./operating_systems/windows:
-./python:
-./python/files:
-./python/files/assignments:
-./python/files/challenges:
-./python/files/files:
+* .:
+* ./books:
+* ./books/gameDev:
+* ./books/hardware:
+* ./books/linux:
+* ./books/python:
+* ./operating_systems:
+* ./operating_systems/linux:
+* ./operating_systems/linux/excercises:
+* ./operating_systems/linux/playground:
+* ./operating_systems/linux/shell_commands:
+* ./operating_systems/windows:
+* ./python:
+* ./python/files:
+* ./python/files/assignments:
+* ./python/files/challenges:
+* ./python/files/files:
 
 ___
 ___
