@@ -34,7 +34,7 @@ tem.
 > **Learning source from Article in *Wikipedia*** and different other blog-posts.
 ### Filesystem Hierarchy Standard (FHS)
 > In the FHS all files and directories appear under the ***root directory*** **/**,
-even if they are stored on different physical or virtua; devices.
+even if they are stored on different physical or virtual devices.
 
 | Directory | Description |
 |:-----------:|:-----------:|
@@ -49,19 +49,6 @@ inluding to bring up the system or repair it, for all users(e.g., **cat, ls, cp*
 |     /etc/X11  |  Configuration files for the *X Window System*, version 11.         |
 |     /etc/xml  |  Configuration files, such as catalogs, for software that processes *XML*         |
 |     /home     |  User's *home directories* containing saved files, personal settings, etc.         |
-|           |           |
-|           |           |
-|           |           |
-|           |           |
-|           |           |
-|           |           |
-|           |           |
-|           |           |
-|           |           |
-|           |           |
-
-
-
 
 
 
